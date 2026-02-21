@@ -1,5 +1,7 @@
 # Core Framework
 streamlit==1.49.1
+audioop-lts
+ffmpeg-python
 
 # Firebase & Google Cloud Services
 firebase-admin==7.1.0
